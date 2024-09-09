@@ -4,9 +4,8 @@ Esta es una aplicación web que lista personajes del universo Dragon Ball utiliz
 
 **Asignatura:** Lenguaje de Programación  
 **TSU:** Servicios en la Nube  
-**Nombres:** Sustituye por tus nombres  
-**Apellidos:** Sustituye por tus apellidos
-
+**Nombres:** Guillermo Andrés
+**Apellidos:** Olmedo Montenegro
 ## Requisitos
 
 - Servidor web con soporte para PHP (por ejemplo, XAMPP, WAMP, LAMP)
